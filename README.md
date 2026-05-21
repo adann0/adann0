@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio.
 
 Here are a few projects I built recently :
 
-- [pvp_demo](https://github.com/adann0/pvp-demo) : End-to-end financial data infrastructure for crypto market research and strategy development. Runs 24/7 on a self-hosted Proxmox server.
+- [pvp_demo](https://github.com/adann0/pvp-demo) : End-to-end market data infrastructure for quantitative research.
 - [spx_ndx](https://github.com/adann0/spx_ndx) : Track SPX/NDX metrics on a single dashboard. Contains a custom model inspired by evolutionary algorithms and machine learning methods.
 - [cex_arb](https://github.com/adann0/cex_arb) : Backtest simulation of a cross-exchange arbitrage strategy.
 - [triangle_arb](https://github.com/adann0/triangle_arb) : Backtest simulation of a triangular arbitrage strategy with a C extension.
